@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m Zihad Hasan
 
--🔭 I’m currently working on machine learning and data analytics projects (like SolarPrediction & Diabetes Prediction).
--🌱 I’m currently learning Python, Data Science, and Power BI to build a strong foundation for my ML journey.
--👯 I’m looking to collaborate on open-source projects related to AI, data visualization, and automation.
--🤔 I’m looking for help with deep learning and real-world deployment of ML models.
--💬 Ask me about data cleaning, visualization, Power BI dashboards, or beginner-friendly ML workflows.
--📫 How to reach me: zihad223193@gmail.com
--😄 Pronouns: He/Him
--⚡ Fun fact: I love turning raw data into meaningful insights — and sometimes into cool visuals! 📊
+- 🔭 I’m currently working on machine learning and data analytics projects (like SolarPrediction & Diabetes Prediction).
+- 🌱 I’m currently learning Python, Data Science, and Power BI to build a strong foundation for my ML journey.
+- 👯 I’m looking to collaborate on open-source projects related to AI, data visualization, and automation.
+- 🤔 I’m looking for help with deep learning and real-world deployment of ML models.
+- 💬 Ask me about data cleaning, visualization, Power BI dashboards, or beginner-friendly ML workflows.
+- 📫 How to reach me: zihad223193@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning raw data into meaningful insights — and sometimes into cool visuals! 📊
 🧠 **About Me**
 
 Hi! I’m Zihad Hasan, a passionate Machine Learning, AI, and Embedded Systems enthusiast.
