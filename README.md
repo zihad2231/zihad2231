@@ -8,7 +8,8 @@
 - 📫 How to reach me: zihad223193@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning raw data into meaningful insights — and sometimes into cool visuals! 📊
-🧠 **About Me**
+- 
+- 🧠 **About Me**
 
 Hi! I’m Zihad Hasan, a passionate Machine Learning, AI, and Embedded Systems enthusiast.
 I love exploring how data, algorithms, and hardware come together to build smart solutions.
