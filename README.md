@@ -1,19 +1,45 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Zihad%20Hasan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Analytics%20%7C%20Embedded%20Systems&descAlignY=58&descSize=18" width="100%" alt="header" />
+<!-- Optional: binary-rain banner. Upload assets/binary-banner.svg to the repo, then use this line instead:
+<img src="https://raw.githubusercontent.com/zihad2231/zihad2231/main/assets/binary-banner.svg" width="100%" alt="binary banner" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:0f2027,100:2c5364&height=230&section=header&text=ZIHAD%20HASAN&fontSize=62&fontColor=00d4ff&fontAlignY=36&animation=twinkling&desc=01011010%2001001001%2001001000%2001000001%2001000100&descAlignY=62&descSize=20&descColor=7fe9ff" width="100%" alt="Zihad Hasan banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+meaningful+insights+%F0%9F%93%8A;Aspiring+AI+Specialist+%F0%9F%A7%A0;Building+smart+solutions+with+data+%2B+hardware+%E2%9A%A1;Open+to+collaborate+on+open-source+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=01001000+01101001+%E2%86%92+Hi!+I'm+Zihad+%F0%9F%91%8B;Turning+raw+data+into+meaningful+insights+%F0%9F%93%8A;Aspiring+AI+Specialist+%F0%9F%A7%A0;Building+smart+solutions+with+data+%2B+hardware+%E2%9A%A1;Open+to+collaborate+on+open-source+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=zihad2231&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=zihad2231&label=Profile+Views&color=2c5364&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/zihad2231?style=for-the-badge&logo=github&color=2c5364&labelColor=0f2027)
-![Stars](https://img.shields.io/github/stars/zihad2231?style=for-the-badge&logo=github&color=2c5364&labelColor=0f2027)
 
 </div>
+
+---
+
+## 🖥️ `$ ./zihad --run`
+
+```text
+> booting profile ................ [ OK ]
+> loading skills .................. [ OK ]
+> compiling projects .............. [ OK ]
+> status: learning, building, collaborating
+```
+
+<details>
+<summary><b>🔓 Decode me (binary → text)</b> — click to expand</summary>
+<br/>
+
+```text
+01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100 00100001 00100000 01001001 00100111 01101101 00100000 01011010 01101001 01101000 01100001 01100100 00101110
+01001101 01001100 00100000 01111100 00100000 01000001 01001001 00100000 01111100 00100000 01000101 01101101 01100010 01100101 01100100 01100100 01100101 01100100
+01000110 01110101 01110100 01110101 01110010 01100101 00100000 01000001 01001001 00100000 01010011 01110000 01100101 01100011 01101001 01100001 01101100 01101001 01110011 01110100
+```
+
+> 💡 Tip: paste any line into a binary-to-text converter to read it.
+
+</details>
 
 ---
 
@@ -108,30 +134,16 @@ My goal is to grow into a skilled **AI Specialist** by working on real-world pro
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=zihad2231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zihad2231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihad2231&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=zihad2231&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=zihad2231&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-</div>
+<br/>
 
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zihad2231&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zihad2231&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-trophy.vercel.app/?username=zihad2231&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -155,10 +167,6 @@ My goal is to grow into a skilled **AI Specialist** by working on real-world pro
 
 <br/>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
