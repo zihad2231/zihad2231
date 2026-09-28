@@ -2,8 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b0f14,50:0f2027,100:2c5364&height=260&section=header&text=ZIHAD%20HASAN&fontSize=64&fontColor=00d4ff&fontAlignY=42&animation=twinkling&desc=01011010+01001001+01001000+01000001+01000100&descAlignY=66&descSize=20&descColor=7fe9ff" width="100%" alt="Zihad Hasan banner" />
-<!-- Optional binary-rain banner: upload assets/binary-banner.svg, then swap in:
-<img src="https://raw.githubusercontent.com/zihad2231/zihad2231/main/assets/binary-banner.svg" width="100%" alt="binary banner" /> -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=01001000+01101001+%E2%86%92+Hi%21+I%27m+Zihad+%F0%9F%91%8B;Turning+raw+data+into+meaningful+insights+%F0%9F%93%8A;Aspiring+AI+Specialist+%F0%9F%A7%A0;Building+smart+solutions+with+data+%2B+hardware+%E2%9A%A1;Open+to+collaborate+on+open-source+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
@@ -47,13 +45,6 @@ zihad@github:~$ ./status --now
 > 💡 Paste any line into a binary-to-text converter to read it.
 
 </details>
-
-### ⏱️ Live Binary Clock & Daily Tip
-
-<!--AUTO_START-->
-> 🕒 **Last sync (UTC, binary):** `00110 : 000111` → 06:07 on 28 Sep 2026  
-> 💡 **ML tip of the day:** More data usually beats a fancier algorithm.
-<!--AUTO_END-->
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:00d4ff,100:0b0f14&height=3" width="100%" alt="divider" /></div>
 
@@ -103,12 +94,46 @@ My goal is to grow into a skilled **AI Specialist** by working on real-world pro
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=60000&color=00D4FF&center=true&vCenter=true&width=560&height=55&lines=%F0%9F%9A%80+Featured+Projects" alt="🚀 Featured Projects" /></div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<a href="https://github.com/zihad2231/SolarPrediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zihad2231&repo=SolarPrediction&theme=tokyonight&hide_border=true&border_radius=12" alt="SolarPrediction" /></a>
-<a href="https://github.com/zihad2231/Diabetes-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zihad2231&repo=Diabetes-Prediction&theme=tokyonight&hide_border=true&border_radius=12" alt="Diabetes Prediction" /></a>
+<h3>☀️ Solar Prediction</h3>
 
-</div>
+<sub>Machine learning model that forecasts solar energy output from real-world data.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&labelColor=0b0f14" alt="Python-3670A0" />
+<img src="https://img.shields.io/badge/Machine%20Learning-00d4ff?style=flat-square&labelColor=0b0f14" alt="Machine%20Learning-00d4ff" />
+<img src="https://img.shields.io/badge/Data%20Analytics-2c5364?style=flat-square&labelColor=0b0f14" alt="Data%20Analytics-2c5364" />
+
+<br/><br/>
+
+<a href="https://github.com/zihad2231?tab=repositories&q=solar"><img src="https://img.shields.io/badge/View%20Repository-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="View Solar Prediction" /></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h3>🩺 Diabetes Prediction</h3>
+
+<sub>Classification model that predicts diabetes risk from health indicators.</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&labelColor=0b0f14" alt="Python-3670A0" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0b0f14" alt="scikit--learn-F7931E" />
+<img src="https://img.shields.io/badge/Classification-2c5364?style=flat-square&labelColor=0b0f14" alt="Classification-2c5364" />
+
+<br/><br/>
+
+<a href="https://github.com/zihad2231?tab=repositories&q=diabetes"><img src="https://img.shields.io/badge/View%20Repository-ef4444?style=for-the-badge&logo=github&logoColor=white" alt="View Diabetes Prediction" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>More projects coming soon. Browse all on my <a href="https://github.com/zihad2231?tab=repositories">repositories page</a>.</sub></div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:00d4ff,100:0b0f14&height=3" width="100%" alt="divider" /></div>
 
@@ -236,24 +261,6 @@ mindmap
     Embedded Systems
       Hardware + AI
 ```
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:00d4ff,100:0b0f14&height=3" width="100%" alt="divider" /></div>
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=60000&color=00D4FF&center=true&vCenter=true&width=640&height=55&lines=%F0%9F%90%8D+Contribution+Playground" alt="🐍 Contribution Playground" /></div>
-
-<div align="center">
-
-**The snake is eating my contributions. Keep committing to feed it!** 🐍
-
-<img src="https://raw.githubusercontent.com/zihad2231/zihad2231/output/github-snake-dark.svg" alt="Snake eating my contribution graph" width="100%" />
-
-<br/><br/>
-
-**My contributions as a 3D city** 🧊
-
-<img src="https://raw.githubusercontent.com/zihad2231/zihad2231/output/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-
-</div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:00d4ff,100:0b0f14&height=3" width="100%" alt="divider" /></div>
 
