@@ -130,6 +130,111 @@ My goal is to grow into a skilled **AI Specialist** by working on real-world pro
 
 ---
 
+## ⚙️ How I Work: Data → Deployment
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart LR
+    A[📥 Raw Data] --> B[🧹 Cleaning]
+    B --> C[📊 Visualization]
+    C --> D[🤖 ML Model]
+    D --> E[📈 Evaluation]
+    E --> F[🚀 Deployment]
+    E -. improve .-> D
+```
+
+---
+
+## 🎯 Focus Areas
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie showData title What I'm spending my time on
+    "Machine Learning" : 30
+    "Data Analytics & Power BI" : 25
+    "Python & Data Science" : 20
+    "Embedded Systems" : 15
+    "Deep Learning" : 10
+```
+
+---
+
+## 🗺️ Learning Roadmap
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+mindmap
+  root((Zihad Hasan))
+    Foundations
+      Python
+      C and Java
+      SQL / MySQL
+    Data
+      Cleaning
+      Visualization
+      Power BI Dashboards
+    Machine Learning
+      scikit-learn
+      Solar Prediction
+      Diabetes Prediction
+    Deep Learning
+      TensorFlow
+      PyTorch
+    Deployment
+      AWS
+      Azure
+    Embedded Systems
+      Hardware + AI
+```
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart LR
+    S1([✅ Python + Data Cleaning]) --> S2([✅ Visualization + Power BI])
+    S2 --> S3([🔄 Machine Learning Projects])
+    S3 --> S4([⏳ Deep Learning])
+    S4 --> S5([⏳ Model Deployment])
+    S5 --> S6([🎯 AI Specialist])
+```
+
+---
+
+## 📶 Skill Levels
+
+```text
+Python            ████████░░  80%
+Data Cleaning     ████████░░  80%
+Visualization     ███████░░░  70%
+Power BI          ██████░░░░  60%
+Machine Learning  ██████░░░░  60%
+Embedded Systems  █████░░░░░  50%
+Deep Learning     ███░░░░░░░  30%
+Deployment        ███░░░░░░░  30%
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,numpy,pandas,sklearn,tensorflow,pytorch,powerbi,mysql,aws,azure,git,ps,ai&perline=9" alt="Skill icons" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/zihad2231/SolarPrediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zihad2231&repo=SolarPrediction&theme=tokyonight&hide_border=true" alt="SolarPrediction" />
+</a>
+<a href="https://github.com/zihad2231/Diabetes-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zihad2231&repo=Diabetes-Prediction&theme=tokyonight&hide_border=true" alt="Diabetes Prediction" />
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -144,6 +249,20 @@ My goal is to grow into a skilled **AI Specialist** by working on real-world pro
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=zihad2231&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/00d4ff/zihad2231" alt="Contribution calendar" width="95%" />
+
+<br/><br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zihad2231&theme=tokyonight" alt="Repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zihad2231&theme=tokyonight" alt="Most commit language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zihad2231&theme=tokyonight" alt="Stats card" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zihad2231&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%" />
 
 </div>
 
